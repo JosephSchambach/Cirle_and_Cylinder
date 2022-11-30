@@ -1,4 +1,4 @@
-# Cirle_and_Cylinder
+# Circle_and_Cylinder
 C++ program to make use of virtual functions and polymorphism
 
 The program was from a final project in my C++ course that was meant to test knowledge of polymorphism and virtual functions. The function centers around the areas of a circle and the ares of a cylinder, which utilizes the area of a circle.
